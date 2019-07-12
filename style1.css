@@ -48,6 +48,7 @@ a{
 background:linear-gradient(to left , #7af442 , white , #7af442);
 height: 800px;
 padding-top: 50px;
+border: 1px solid powderblue;
 
 
 }
