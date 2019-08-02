@@ -9,13 +9,13 @@
 		reset: 'full',
 		breakpoints: {
 			global: {
-				href: 'css/style.css',
+				href: 'asset/css/style.css',
 				containers: 1400,
 				grid: { gutters: ['2em', 0] }
 			},
 			xlarge: {
 				media: '(max-width: 1680px)',
-				href: 'css/style-xlarge.css',
+				href: 'asset/css/style-xlarge.css',
 				containers: 1200
 			},
 			large: {
@@ -27,18 +27,18 @@
 			},
 			medium: {
 				media: '(max-width: 980px)',
-				href: 'css/style-medium.css',
+				href: 'asset/css/style-medium.css',
 				containers: '90%'
 			},
 			small: {
 				media: '(max-width: 736px)',
-				href: 'css/style-small.css',
+				href: 'asset/css/style-small.css',
 				containers: '90%',
 				grid: { gutters: ['1.25em', 0] }
 			},
 			xsmall: {
 				media: '(max-width: 480px)',
-				href: 'css/style-xsmall.css',
+				href: 'asset/css/style-xsmall.css',
 			}
 		},
 		plugins: {
