@@ -20,7 +20,7 @@
 			},
 			large: {
 				media: '(max-width: 1280px)',
-				href: 'css/style-large.css',
+				href: 'asset/css/style-large.css',
 				containers: 960,
 				grid: { gutters: ['1.5em', 0] },
 				viewport: { scalable: false }
